@@ -7,6 +7,7 @@ Notre blog explique nos choix techniques. Ce GitHub publie les outils qui vont a
 ## Outils open source
 
 - **[checklist-audit-app-no-code-ia](https://github.com/Horizon-Factory/checklist-audit-app-no-code-ia)** : 25 points pour auditer une application créée avec Bubble, Lovable, Claude ou Cursor (sécurité, charge, sauvegardes, coûts, propriété).
+- **[swarm-test](https://github.com/Horizon-Factory/swarm-test)** : un skill Claude Code qui teste une fonctionnalité web ou mobile avec des agents en parallèle (Playwright, Maestro) et produit un rapport HTML étape par étape.
 
 ## À lire sur le blog
 
